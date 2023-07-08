@@ -1,7 +1,7 @@
 # Information
-- Hello, my name is Pavel 👋  
-- I'm from Russia 🇷🇺  
-- I love Python 🐍  
+### - Hello, my name is Pavel 👋  
+### - I'm from Russia 🇷🇺  
+### - I love Python 🐍  
 
 
 # Languages and tools
