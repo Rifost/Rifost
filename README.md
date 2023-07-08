@@ -1,4 +1,8 @@
-### Hi there 👋
+### Information  
+Hello, my name is Pavel 👋  
+I'm from Russia 🇷🇺  
+I love Python 🐍  
+
 
 <!--
 **rifost/rifost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
