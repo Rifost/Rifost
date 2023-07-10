@@ -20,6 +20,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)  
 
 # Statistic
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifost&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rifost&theme=city_lights)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rifost&theme=city_lights)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rifost&theme=city_lights)
